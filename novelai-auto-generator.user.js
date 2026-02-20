@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         NovelAI Auto Generator Console
-// @namespace    https://github.com/YourUsername/NovelAI-Auto-Generator
+// @namespace    https://github.com/dhl02190219-cell/NAI-Auto
 // @version      2.0.0
 // @description  NovelAI 자동 생성 콘솔 (상태 자동 인식, 드래그 & 최소화 지원)
-// @author       YourUsername
+// @author       dhl02190219-cell
 // @match        https://novelai.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=novelai.net
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/YourUsername/NovelAI-Auto-Generator/main/novelai-auto-generator.user.js
-// @downloadURL  https://raw.githubusercontent.com/YourUsername/NovelAI-Auto-Generator/main/novelai-auto-generator.user.js
+// @updateURL    https://raw.githubusercontent.com/dhl02190219-cell/NAI-Auto/main/novelai-auto-generator.user.js
+// @downloadURL  https://raw.githubusercontent.com/dhl02190219-cell/NAI-Auto/main/novelai-auto-generator.user.js
 // ==/UserScript==
 
 (function() {
